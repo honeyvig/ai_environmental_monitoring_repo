@@ -1,1 +1,3 @@
-# ai_environmental_monitoring_repo
+# AI Environmental Monitoring & Robotics Framework
+
+Ethical AI for sensing, robotics, and reporting.
